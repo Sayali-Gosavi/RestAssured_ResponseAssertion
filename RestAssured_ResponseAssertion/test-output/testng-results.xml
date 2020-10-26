@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1325" started-at="2020-10-26T05:37:49Z" finished-at="2020-10-26T05:37:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1325" started-at="2020-10-26T05:37:49Z" finished-at="2020-10-26T05:37:50Z">
+      <class name="StepDefinitions.ResponseAssertionRunner">
+        <test-method status="PASS" signature="api_for_foreign_exchange()[pri:0, instance:StepDefinitions.ResponseAssertionRunner@26ce31a9]" name="api_for_foreign_exchange" duration-ms="283" started-at="2020-10-26T11:07:49Z" finished-at="2020-10-26T11:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_for_foreign_exchange -->
+        <test-method status="PASS" signature="posted_with_correct_information()[pri:0, instance:StepDefinitions.ResponseAssertionRunner@26ce31a9]" name="posted_with_correct_information" duration-ms="977" started-at="2020-10-26T11:07:49Z" finished-at="2020-10-26T11:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_correct_information -->
+        <test-method status="PASS" signature="validate_positive_response_code_received()[pri:0, instance:StepDefinitions.ResponseAssertionRunner@26ce31a9]" name="validate_positive_response_code_received" duration-ms="50" started-at="2020-10-26T11:07:50Z" finished-at="2020-10-26T11:07:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_positive_response_code_received -->
+      </class> <!-- StepDefinitions.ResponseAssertionRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
